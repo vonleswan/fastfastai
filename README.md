@@ -7,6 +7,7 @@
 
 - [install python 3.7](https://linuxize.com/post/how-to-install-python-3-7-on-ubuntu-18-04/) 
     - I had to `sudo apt update` after adding the repository
+    - Instead of python3.7 get python3.7-dev with `sudo apt install python3.7`
 
 - `vim ~/.bashrc`
 
