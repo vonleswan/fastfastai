@@ -18,6 +18,8 @@
 
 - `source ~/.bashrc`
 
+- `python -m pip install --upragde pip`
+
 - `python -m pip install fastai`
 
 ## SUCCSEEED
