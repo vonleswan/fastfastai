@@ -36,7 +36,7 @@ cd to a directory you are okay with the fastai content being on. I chose `/mnt/e
 
 - `jupyter notebook --no-browser --allow-root`
 
-Use a broswer and go to the URL displayed on the terminal mine was http://localhost:8888/`
+Use a broswer and go to the URL displayed on the terminal mine was http://localhost:8888/
 
 I encourage you to read `00_notebook_tutorial.ipynb`
 
