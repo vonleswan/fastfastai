@@ -18,6 +18,6 @@
 
 - `source ~/.bashrc`
 
-- `sudo python -m pip install fastai`
+- `python -m pip install fastai`
 
 ## SUCCSEEED
