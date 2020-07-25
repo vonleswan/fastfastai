@@ -17,6 +17,8 @@
 
 - insert `alias python='python3.7'`
 
+- insert `alias jupyter-notebook="~/.local/bin/jupyter-notebook --no-browser"`
+
 - hit `ESC` and then type `:wq` to quit vim and save what you wrote
 
 - `source ~/.bashrc`
