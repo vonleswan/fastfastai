@@ -42,3 +42,5 @@
 Use a broswer and go to the URL displayed on the terminal mine was `http://localhost:8888/`
 
 I encourage you to read `00_notebook_tutorial.ipynb`
+
+Make sure to shutdown the notebook when you're finished!
