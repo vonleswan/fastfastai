@@ -20,8 +20,8 @@
 
 - `source ~/.bashrc`
 
-- `python -m pip install --upgrade pip`
+- `sudo python -m pip install --upgrade pip`
 
-- `python -m pip install fastai`
+- `sudo python -m pip install fastai`
 
 ## SUCCSEEED
