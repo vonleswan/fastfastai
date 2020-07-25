@@ -23,6 +23,8 @@
 
 - `sudo python -m pip install --upgrade pip`
 
+- `sudo python -m pip install jupyter`
+
 - `sudo python -m pip install fastai`
 
 - cd to a directory you are okay with the fastai content being on. I chose `/mnt/e/` as that is my E: drive
