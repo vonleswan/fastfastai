@@ -25,4 +25,8 @@
 
 - `sudo python -m pip install fastai`
 
+- cd to a directory you are okay with the fastai content being on. I chose `/mnt/e/` as that is my E: drive
+
+- `git clone https://github.com/fastai/course-v3`
+
 ## SUCCSEEED
