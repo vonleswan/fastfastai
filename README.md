@@ -33,4 +33,10 @@
 
 - `git clone https://github.com/fastai/course-v3`
 
-## SUCCSEEED
+## How to use notebooks
+
+- `cd course-v3/nbs/dl1/`
+
+- `jupyter notebook --no-browser --allow-root`
+
+Use a broswer and go to the URL displayed on the terminal mine was `http://localhost:8888/`
