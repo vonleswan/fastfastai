@@ -12,7 +12,7 @@
 
 - Hit `I` to enter insert mode
 
-- insert `alias sudo='sudo'`
+- insert `alias sudo='sudo '`
 
 - insert `alias python='python3.7'`
 
