@@ -20,11 +20,11 @@ hit `ESC` and then type `:wq` to quit vim and save what you wrote
 
 - `source ~/.bashrc`
 
-- `sudo python -m pip install --upgrade pip`
+- `python -m pip install --upgrade pip`
 
-- `sudo python -m pip install jupyter`
+- `python -m pip install jupyter`
 
-- `sudo python -m pip install fastai`
+- `python -m pip install fastai`
 
 cd to a directory you are okay with the fastai content being on. I chose `/mnt/e/` as that is my E: drive
 
