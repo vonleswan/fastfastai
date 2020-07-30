@@ -1,5 +1,6 @@
 # FASTAI INSTALL UBUNTU SUBSYSTEM WINDOWS 10
 
+
 ## STEPS
  - [Install ubuntu 18.04](https://www.microsoft.com/en-ca/p/ubuntu-1804-lts/9n9tngvndl3q?rtc=1&activetab=pivot:overviewtab)
 
@@ -36,7 +37,7 @@ cd to a directory you are okay with the fastai content being on. I chose `/mnt/e
 
 - `jupyter notebook --no-browser --allow-root`
 
-Use a broswer and go to the URL displayed on the terminal. It's most likely http://localhost:8888/
+Use a browser and go to the URL displayed on the terminal. It's most likely http://localhost:8888/
 
 I encourage you to read `00_notebook_tutorial.ipynb`
 
